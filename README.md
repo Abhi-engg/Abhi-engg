@@ -118,7 +118,7 @@
 
   <!-- FitLife -->
   <div style="background-color: #2A2A2A; padding: 20px; border-radius: 10px; border: 1px solid #A8E6CF; margin-bottom: 20px;">
-    <h3 style="color: #A8E6CF;">💪 FitLife</h3>
+    <h3 style="color: #A8E6CF;">💪 FitLife </h3>
     <p style="color: #F8F9FA;">A comprehensive fitness tracking application featuring:</p>
     <ul style="color: #F8F9FA;">
       <li>🏋️ Personalized workout plans</li>
@@ -129,7 +129,7 @@
 
   <!-- ClassTimetable -->
   <div style="background-color: #2A2A2A; padding: 20px; border-radius: 10px; border: 1px solid #FFD93D; margin-bottom: 20px;">
-    <h3 style="color: #FFD93D;">📚 ClassTimetable h3>
+    <h3 style="color: #FFD93D;">📚 ClassTimetable </h3>
     <p style="color: #F8F9FA;">An intelligent class scheduling system offering:</p>
     <ul style="color: #F8F9FA;">
       <li> (In Process)<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"</li>
