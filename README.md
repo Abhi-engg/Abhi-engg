@@ -1,4 +1,7 @@
-# <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Abhijeet+Yadav;Frontend+Developer;React+Enthusiast" alt="Typing SVG" /></h1>
+# <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Abhijeet+Yadav;Frontend+Developer;React+Enthusiast" alt="Typing SVG" />
+ <!-- Simple view counter -->
+   <img  align="right" src="https://komarev.com/ghpvc/?username=Abhi-engg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</h1>
 
 ###
 
@@ -83,13 +86,9 @@
 
 ###
 
-<h1 align="left">Projects & Work<img src="https://media.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif" width="25"></h1>
+<h1 align="left">Projects & Work <img src="https://media.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif" width="25"></h1>
 
 ###
-
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=ListiFy+🔥;PeerConnect+⚡;FitLife+💫;ClassTimetable+✨;Virtual+Wardrobe+🌟" alt="Projects Typing SVG" />
-</div>
 
 ###
 
@@ -104,7 +103,6 @@
       <li>📝 Customizable sticky notes</li>
     </ul>
   </div>
-
   <!-- PeerConnect -->
   <div style="background-color: #2A2A2A; padding: 20px; border-radius: 10px; border: 1px solid #4ECDC4; margin-bottom: 20px;">
     <h3 style="color: #4ECDC4;">🤝 PeerConnect</h3>
@@ -115,7 +113,6 @@
       <li>🌱 Growth tracking system</li>
     </ul>
   </div>
-
   <!-- FitLife -->
   <div style="background-color: #2A2A2A; padding: 20px; border-radius: 10px; border: 1px solid #A8E6CF; margin-bottom: 20px;">
     <h3 style="color: #A8E6CF;">💪 FitLife </h3>
@@ -126,7 +123,6 @@
       <li>📈 Calorie Calculator </li>
     </ul>
   </div>
-
   <!-- ClassTimetable -->
   <div style="background-color: #2A2A2A; padding: 20px; border-radius: 10px; border: 1px solid #FFD93D; margin-bottom: 20px;">
     <h3 style="color: #FFD93D;">📚 ClassTimetable </h3>
