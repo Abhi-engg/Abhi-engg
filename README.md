@@ -152,10 +152,7 @@
   
   <!-- Simple typing animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%8C%9F;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Footer Typing SVG" />
-  
-  <!-- Simple view counter -->
-  <img src="https://komarev.com/ghpvc/?username=Abhi-engg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
+   
   <!-- Animated line separator -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
