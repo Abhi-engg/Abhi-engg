@@ -13,8 +13,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="218" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd5MTZnYXBhOXRza3VwMmhncWk2NnMwZXN1eXRzaDdzajgyeDZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp"  />
 
 ###
@@ -79,6 +77,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
+
 ###
 
 <h2 align="left">Stats <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="25"></h2>
