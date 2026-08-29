@@ -18,9 +18,6 @@ Currently: Full Stack Dev Intern @ WIFFY Technology · shipped 30+ fixes across 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,py,c,html,css,react,tailwind,nodejs,express,graphql,postgres,mongodb,prisma,redis,git,github,figma,postman,vercel,aws" />
 
-<img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white&style=for-the-badge" height="32" />
-<img src="https://img.shields.io/badge/Microsoft%20Clarity-0078D4?logo=microsoft&logoColor=white&style=for-the-badge" height="32" />
-<img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white&style=for-the-badge" height="32" />
 </div>
 
 ## Stats <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="20" />
@@ -32,9 +29,23 @@ Currently: Full Stack Dev Intern @ WIFFY Technology · shipped 30+ fixes across 
 <img src="https://streak-stats.demolab.com?user=Abhi-engg&theme=dracula&hide_border=true" height="165" />
 <img src="https://github-profile-trophy.vercel.app/?username=Abhi-engg&theme=dracula&no-frame=true&row=1&column=6" height="100" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-engg&theme=dracula&hide_border=true&area=true" width="100%" />
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-engg&theme=dracula&hide_border=true&area=true" width="100%" /></a>
 
-<img src="https://raw.githubusercontent.com/Abhi-engg/Abhi-engg/output/github-contribution-grid-snake.svg" width="100%" />
+## Recent Work <img src="https://media.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif" width="20" />
+
+- **Crop Disease Detection App** — offline, edge-AI Android app for crop disease/pest ID; on-device TFLite inference, Kotlin + Jetpack Compose. Final-year major project.
+- **Support CRM** — full-stack CRM built for a hiring assignment; React/TS/Tailwind + Node/Express/SQLite.
+- **Cake Shop Telegram Bot** — Instagram reel-capture bot for a friend's business; FastAPI + python-telegram-bot + NeonDB.
+
+<h3>🐍 My Contributions 🐍</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi-engg/Abhi-engg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhi-engg/Abhi-engg/output/github-contribution-grid-snake.svg">
+  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/Abhi-engg/Abhi-engg/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi-engg/Abhi-engg/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -42,12 +53,6 @@ Currently: Full Stack Dev Intern @ WIFFY Technology · shipped 30+ fixes across 
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Abhi-engg/Abhi-engg/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
 </picture>
 </div>
-
-## Recent Work <img src="https://media.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif" width="20" />
-
-- **Crop Disease Detection App** — offline, edge-AI Android app for crop disease/pest ID; on-device TFLite inference, Kotlin + Jetpack Compose. Final-year major project.
-- **Support CRM** — full-stack CRM built for a hiring assignment; React/TS/Tailwind + Node/Express/SQLite.
-- **Cake Shop Telegram Bot** — Instagram reel-capture bot for a friend's business; FastAPI + python-telegram-bot + NeonDB.
 
 ## Connect <img src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="20" />
 
@@ -61,5 +66,6 @@ Currently: Full Stack Dev Intern @ WIFFY Technology · shipped 30+ fixes across 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=600&lines=Thanks+for+visiting!+%F0%9F%8C%9F;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Footer Typing SVG" />
 </div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%" />
