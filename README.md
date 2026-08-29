@@ -17,7 +17,6 @@ Currently: Full Stack Dev Intern @ WIFFY Technology · shipped 30+ fixes across 
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,py,c,html,css,react,tailwind,nodejs,express,graphql,postgres,mongodb,prisma,redis,git,github,figma,postman,vercel,aws" />
-
 </div>
 
 ## Stats <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="20" />
@@ -30,6 +29,7 @@ Currently: Full Stack Dev Intern @ WIFFY Technology · shipped 30+ fixes across 
 <img src="https://github-profile-trophy.vercel.app/?username=Abhi-engg&theme=dracula&no-frame=true&row=1&column=6" height="100" />
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-engg&theme=dracula&hide_border=true&area=true" width="100%" /></a>
+</div>
 
 ## Recent Work <img src="https://media.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif" width="20" />
 
@@ -37,8 +37,9 @@ Currently: Full Stack Dev Intern @ WIFFY Technology · shipped 30+ fixes across 
 - **Support CRM** — full-stack CRM built for a hiring assignment; React/TS/Tailwind + Node/Express/SQLite.
 - **Cake Shop Telegram Bot** — Instagram reel-capture bot for a friend's business; FastAPI + python-telegram-bot + NeonDB.
 
-<h3>🐍 My Contributions 🐍</h3>
+## Contributions 🐍
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi-engg/Abhi-engg/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhi-engg/Abhi-engg/output/github-contribution-grid-snake.svg">
@@ -66,6 +67,5 @@ Currently: Full Stack Dev Intern @ WIFFY Technology · shipped 30+ fixes across 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=600&lines=Thanks+for+visiting!+%F0%9F%8C%9F;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Footer Typing SVG" />
 </div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%" />
