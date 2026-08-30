@@ -8,7 +8,7 @@
 
 </div>
 
-<img align="right" height="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd5MTZnYXBhOXRza3VwMmhncWk2NnMwZXN1eXRzaDdzajgyeDZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp" />
+<img align="left" height="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd5MTZnYXBhOXRza3VwMmhncWk2NnMwZXN1eXRzaDdzajgyeDZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp" />
 
 &nbsp;
 
@@ -56,11 +56,15 @@ Currently: Full Stack Dev Intern @ WIFFY Technology · shipped 30+ fixes across 
 
 ## Connect <img src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="20" />
 
+<div align="center">
+
 <a href="https://www.linkedin.com/in/abhijeet-yadav-429b83212/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" /></a>
 <a href="https://www.instagram.com/kabhii.abhi/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" /></a>
 <a href="YOUR_DISCORD_INVITE_OR_PROFILE_LINK"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" /></a>
 <a href="https://t.me/YOUR_TELEGRAM_HANDLE"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=600&lines=Thanks+for+visiting!+%F0%9F%8C%9F;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Footer Typing SVG" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%" />
