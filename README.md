@@ -22,16 +22,6 @@ Currently: Full Stack Dev Intern @ WIFFY Technology · shipped 30+ fixes across 
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,c,html,css,react,tailwind,nodejs,express,graphql,postgres,mongodb,prisma,redis,git,github,figma,postman,vercel,aws" />
 
-<img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white&style=for-the-badge" height="32" />
-<img src="https://img.shields.io/badge/Microsoft%20Clarity-0078D4?logo=microsoft&logoColor=white&style=for-the-badge" height="32" />
-<img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white&style=for-the-badge" height="32" />
-
-- **Languages:** JavaScript (ES6+), TypeScript, Python, C, HTML5, CSS3
-- **Frontend:** React.js, Tailwind CSS, Responsive Design
-- **Backend:** Node.js, Express.js, REST APIs, GraphQL APIs
-- **Databases:** PostgreSQL, MongoDB, Prisma ORM, Redis
-- **Tools:** Git, GitHub, Figma, Vercel, Postman, Ant Design, Microsoft Clarity, AWS CloudWatch
-
 ## Stats <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="20" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhi-engg&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="165" />
@@ -63,12 +53,6 @@ Currently: Full Stack Dev Intern @ WIFFY Technology · shipped 30+ fixes across 
 - **Crop Disease Detection App** — offline, edge-AI Android app for crop disease/pest ID; on-device TFLite inference, Kotlin + Jetpack Compose. Final-year major project.
 - **Support CRM** — full-stack CRM built for a hiring assignment; React/TS/Tailwind + Node/Express/SQLite.
 - **Cake Shop Telegram Bot** — Instagram reel-capture bot for a friend's business; FastAPI + python-telegram-bot + NeonDB.
-
-## Writing
-
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@YOUR_MEDIUM_HANDLE/0" target="_blank"><img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@YOUR_MEDIUM_HANDLE/0" alt="Medium post 1" /></a>
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@YOUR_MEDIUM_HANDLE/1" target="_blank"><img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@YOUR_MEDIUM_HANDLE/1" alt="Medium post 2" /></a>
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@YOUR_MEDIUM_HANDLE/2" target="_blank"><img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@YOUR_MEDIUM_HANDLE/2" alt="Medium post 3" /></a>
 
 ## Connect <img src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="20" />
 
