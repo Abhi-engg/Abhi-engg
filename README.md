@@ -50,12 +50,6 @@ Currently: Full Stack Dev Intern @ WIFFY Technology · shipped 30+ fixes across 
 
 ## Recent Work <img src="https://media.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif" width="20" />
 
-- **Crop Disease Detection App** — offline, edge-AI Android app for crop disease/pest ID; on-device TFLite inference, Kotlin + Jetpack Compose. Final-year major project.
-- **Support CRM** — full-stack CRM built for a hiring assignment; React/TS/Tailwind + Node/Express/SQLite.
-- **Cake Shop Telegram Bot** — Instagram reel-capture bot for a friend's business; FastAPI + python-telegram-bot + NeonDB.
-
-## Connect <img src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="20" />
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abhijeet-yadav-429b83212/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" /></a>
